@@ -55,7 +55,7 @@ The detailed code of the visual customization can be referred in [javascript](ht
       return "#ea2c2c";
     }
     if (magnitude > 4) {
-      return "#ea822c";
+      return "#ea822c"; 
     }
     if (magnitude > 3) {
       return "#ee9c00";
