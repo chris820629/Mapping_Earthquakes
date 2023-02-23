@@ -72,7 +72,8 @@ The detailed code of the visual customization can be referred in [javascript](ht
 ### Results 
 
 Fig. 1 Outlines the design and layout of our webpage, which includes selectable layers, overlays, and a static legend with color scales representing the magnitude scales. All background maps were selectable in addition to Streets, Satellite Streets, or Outdoor
----- 
+<img src="https://github.com/chris820629/bikesharing/blob/main/Images/Image_4.png" width="500" height='300'>  
+
 Fig. 2 Several map layers and two overlays (Tectonic Plates and Earthquakes) were added to the streets background map as illustrated.
 ---- 
 Fig. 3 Several map layers and two overlays (Tectonic Plates, Earthquakes, and Major Earthquakes) were added to the streets background map as illustrated.
