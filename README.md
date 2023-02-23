@@ -68,3 +68,12 @@ The detailed code of the visual customization can be referred in [javascript](ht
     }
     return "#98ee0
   ```
+### Results
+Fig. 1 Outlines the design and layout of our webpage, which includes selectable layers, overlays, and a static legend with color scales representing the magnitude scales. All background maps were selectable in addition to Streets, Satellite Streets, or Outdoor
+----
+Fig. 2 Several map layers and two overlays (Tectonic Plates and Earthquakes) were added to the streets background map as illustrated.
+----
+Fig. 3 Several map layers and two overlays (Tectonic Plates, Earthquakes, and Major Earthquakes) were added to the streets background map as illustrated. 
+
+## Summary
+By collecting the earthquake data [USGS Past 30 Days M4.5+ Earthquakes](https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_month.geojson) and further overlapping with tectonic plate plots. Strong correlation between Earthquake occurance locations and tectonic plate lines was discovered. The overlay map in Fig. 3 reconfirms that most major earthquakes, especially those M4.5+ earthquakes, occur along the tectonic plates or the fault lines where tectonic plates meet. A future study can explore the correlation between distance of earthquake geo-coordinates (latitude, longtitude) to tectonic plate, and earthquake magnitude. These data may be input into machine learning model with linear regression predicting the possible dange zone with potential of 4.5+ major earthquakes.
