@@ -35,7 +35,6 @@ The detailed code of the visual customization can be referred in [javascript](ht
 
 - the marker customization functions are listed in below code function including size (radius), color, opacity, stroke and weight. for instance:
 
-  ```
 function styleInfo(feature) {
     return {
       opacity: 1,
@@ -48,11 +47,10 @@ function styleInfo(feature) {
     };
   }
   ```
-  
-- the sub-fuction: getColor matches the color based on the earthquake magnitude data as below\
 
+- the sub-fuction: getColor matches the color based on the earthquake magnitude data as below\
   ```
-  function getColor(magnitude) {
+    function getColor(magnitude) {
     if (magnitude > 5) {
       return "#ea2c2c";
     }
