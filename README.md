@@ -75,8 +75,10 @@ Fig. 1 Outlines the design and layout of our webpage, which includes selectable 
 <img src="https://github.com/chris820629/Mapping_Earthquakes/blob/main/Resources/Image_1.png" width="1000" height='500'>  
 
 Fig. 2 Several map layers and two overlays (Tectonic Plates and Earthquakes) were added to the streets background map as illustrated.
----- 
+<img src="https://github.com/chris820629/Mapping_Earthquakes/blob/main/Resources/Image_2.png" width="1000" height='500'>  
+
 Fig. 3 Several map layers and two overlays (Tectonic Plates, Earthquakes, and Major Earthquakes) were added to the streets background map as illustrated.
+<img src="https://github.com/chris820629/Mapping_Earthquakes/blob/main/Resources/Image_3.png" width="1000" height='500'>  
 
 ## Summary and Future Work
 
