@@ -34,7 +34,7 @@ By using several web designing tools, such as HTML, CSS, JavaScript, Leaflet, Ma
 The detailed code of the visual customization can be referred in [javascript](https://github.com/chris820629/Mapping_Earthquakes/blob/main/Earthquake_Challenge/static/js/challenge_logic.js). Below are some features explained more in details.
 
 - the marker customization functions are listed in below code function including size (radius), color, opacity, stroke and weight. for instance:
-
+  ```
 function styleInfo(feature) {
     return {
       opacity: 1,
